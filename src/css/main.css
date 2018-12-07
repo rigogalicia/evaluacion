@@ -1,0 +1,14 @@
+@import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+@import '../../node_modules/bootstrap-vue/dist/bootstrap-vue.css';
+
+body {
+    background: #fffcfc;
+}
+
+#principal {
+    margin-top: 75px;
+}
+
+.card-colaborador {
+    margin-top: 15px;
+}
