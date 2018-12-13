@@ -26,13 +26,13 @@ export default {
   },
   mounted () {
     // Inicia sesion y muestra los datos de evaluacion
-    var url = window.location.href.split('/')
+    /*var url = window.location.href.split('/')
     var userConect = url[3]
     var claveUser = url[4]
     var ided = url[5]
 
     edService.datosEvaluacion(userConect, claveUser, ided)
-    .then(res => (this.info = res))
+    .then(res => (this.info = res))*/
   }
 }
 </script>
